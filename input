@@ -1,0 +1,3 @@
+name=input('Person name:' )
+color=input('Favourite color:' )
+print(name+' likes '+ color)
