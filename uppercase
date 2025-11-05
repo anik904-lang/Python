@@ -1,0 +1,2 @@
+name='anik hossain'
+print(name.upper())
