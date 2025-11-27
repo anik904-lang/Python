@@ -1,0 +1,2 @@
+a=["Anik","Rimon","Mehedi","Irfan","Mamaun","Foysal"]
+print(a[2:5])
