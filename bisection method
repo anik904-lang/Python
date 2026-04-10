@@ -1,0 +1,10 @@
+# Initial guesses
+a = 1
+b = 2
+
+# Tolerance and maximum iterations
+tolerance = 0.0001
+max_iterations = 20
+
+# Call the method
+root = bisection(a, b, tolerance, max_iterations)
